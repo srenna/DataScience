@@ -1,5 +1,4 @@
--- Assignment 1
--- Nana Amina Abubakar, Nashaat Khan, Sabrina Renna, Yuxing (Antonio) Zhang
+-- Bakery Sales: SQL Queries
 
 -- (1) Identify the items with the highest and lowest (non-zero) unit price?
 SELECT bs.article, bs.unit_price

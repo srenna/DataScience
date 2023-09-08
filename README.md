@@ -1,9 +1,9 @@
 # 👋 Welcome to My Portfolio!
 Dive into my collection of projects, showcasing my expertise in data analysis and related fields. Each project represents a unique opportunity to explore various aspects of data science. If you have any questions or wish to discuss collaboration opportunities, feel free to reach out.
 
-📧 Contact Information
-Email: sabrina.renna@gmail.com
-Website: sabrinarenna.com
+📧 Contact Information<br>
+Email: sabrina.renna@gmail.com<br> 
+Website: sabrinarenna.com<br>
 
 ## 📂 Project List
 ### 1. Data Cleaning & Exploratory Data Analysis 🧹

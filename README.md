@@ -1,5 +1,5 @@
 # 👋 Welcome to My Portfolio!
-Dive into my collection of projects, showcasing my expertise in data analysis and related fields. Each project represents a unique opportunity to explore various aspects of data science. If you have any questions or wish to discuss collaboration opportunities, feel free to reach out.
+Explore a showcase of my projects and work samples. Each project offers unique insights into various aspects of data science and machine learning. If you have any questions or wish to discuss collaboration opportunities, feel free to reach out.
 
 📧 Contact Information<br/>
 Email: sabrina.renna@gmail.com<br/> 

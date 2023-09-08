@@ -10,7 +10,7 @@ Website: [sabrinarenna.com](https://sabrinarenna.com)<br/>
 ### 1. Data Cleaning & Exploratory Data Analysis 🧹
 Key performance indicators and regional trends for an e-commerce client are identified, which are in turn used to formulate a data-driven sales strategy.
 
-### 2. Statistical & AB Testing 📊
+### 2. Statistical & A/B Testing 📊
 As a Product Analyst, I conducted A/B tests to measure changes in click-through rates (CTR) and average time spent on the mobile app. This involved statistical hypothesis testing to make data-driven decisions, ultimately leading to feature improvements.
 
 ### 3. Regression & Regularization 🏠

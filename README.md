@@ -1,5 +1,5 @@
 # 👋 Welcome to My Portfolio!
-Explore a showcase of my projects and work samples. Each project offers unique insights into various aspects of data science and machine learning. If you have any questions or wish to discuss collaboration opportunities, feel free to reach out.
+Explore a showcase of my projects and work samples in Python and SQL. Each project offers unique insights into various aspects of data science and machine learning. If you have any questions or wish to discuss collaboration opportunities, feel free to reach out.
 
 📧 Contact Information<br/>
 Email: sabrina.renna@gmail.com<br/> 

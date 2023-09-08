@@ -7,7 +7,7 @@ Website: [sabrinarenna.com](https://sabrinarenna.com)<br/>
 
 
 ## 📂 Project List
-### 1. Data Cleaning & Exploratory Data Analysis 🧹
+### [1. Data Cleaning & Exploratory Data Analysis](https://github.com/srenna/portfolio/tree/main/1%20-%20Data%20Cleaning%20%26%20Exploratory%20Data%20Analysis) 🧹
 Key performance indicators and regional trends for an e-commerce client are identified, which are in turn used to formulate a data-driven sales strategy.
 
 ### 2. Statistical & A/B Testing 📊
